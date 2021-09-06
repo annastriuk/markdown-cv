@@ -11,12 +11,7 @@ Graphic designer with +3 years of experience in branding, marketing, and print d
 
 ### Specialized in
 
-Digital design, illustartion, publication design 
-
-
-### Research interests
-
-NFT art, 
+Identity Design, Branding. 
 
 
 ## Education
@@ -25,9 +20,8 @@ NFT art,
 __Kiev National University__
 
 `2001-2010`
-__rt School__
+__Art School__
 
-- Sizar
 
 
 
@@ -40,14 +34,14 @@ Best Graphic Designer in Jax, by the Void magazine
 
 `06/2021-present`
 Jr Art. Director at RFR marketing agency. 
-Create visual concepts in response to clients’ briefs and relaying them to the art director.
--Design and develop various graphics, ads, logos, marketing collateral, etc.
--Produce sketches, storyboards, art layouts based on creative visions and ideas
--Present completed ideas to clients/ team members
--Understand marketing initiatives, strategic positioning and target audience
--Work with Marketing Team to brainstorm marketing campaigns which will achieve brand KPI’s
--Work with VP of Marketing to manage design deliverables
--Stay on top of all trends and maintain best practices
+- Create visual concepts in response to clients’ briefs and relaying them to the art director.
+- Design and develop various graphics, ads, logos, marketing collateral, etc.
+- Produce sketches, storyboards, art layouts based on creative visions and ideas
+- Present completed ideas to clients/ team members
+- Understand marketing initiatives, strategic positioning and target audience
+- Work with Marketing Team to brainstorm marketing campaigns which will achieve brand KPI’s
+- Work with VP of Marketing to manage design deliverables
+- Stay on top of all trends and maintain best practices
 
 `01/2020-06/2021`
 Graphic Designer/ Social media manager at OutlastLife.com
@@ -63,15 +57,15 @@ in the market.
 
 `01/2019-present`
 Graphic Designer at Amistar, Jax
--Define creative strategies for programs and communications
--Working with others in the creative department to develop conceptual abilities
--Assist with the development of creative briefings
--Identify creative approaches to align with client objectives and brand position
--Manage creative refresh plan for ongoing marketing programs
+- Define creative strategies for programs and communications
+- Working with others in the creative department to develop conceptual abilities
+- Assist with the development of creative briefings
+- Identify creative approaches to align with client objectives and brand position
+- Manage creative refresh plan for ongoing marketing programs
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Spetember 2021 -->
 
 
