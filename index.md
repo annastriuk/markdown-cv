@@ -1,87 +1,73 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Anna Striuk's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
+# Anna Striuk
+Grahic designer, Jr Art Director
 
 ## Currently
 
-Standing on the shoulders of giants
+Graphic designer with +3 years of experience in branding, marketing, and print design. Skilled at Adobe Creative Suite( Photoshop, Illustrator, InDesign) as well as sketching and hand drawing. Supervised rebranding of the Outlast Life store that resulted in an increase of 32% in sales. Created 15 brand identities for companies and individuals from different fields.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Digital design, illustartion, publication design 
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+NFT art, 
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2011-2015`
+__Kiev National University__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2001-2010`
+__rt School__
 
 - Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2020`
+Best Graphic Designer in Jax, by the Void magazine
 
-Associate, *French Academy of Science*, Paris, France
+## Experience 
 
+`06/2021-present`
+Jr Art. Director at RFR marketing agency. 
+Create visual concepts in response to clients’ briefs and relaying them to the art director.
+-Design and develop various graphics, ads, logos, marketing collateral, etc.
+-Produce sketches, storyboards, art layouts based on creative visions and ideas
+-Present completed ideas to clients/ team members
+-Understand marketing initiatives, strategic positioning and target audience
+-Work with Marketing Team to brainstorm marketing campaigns which will achieve brand KPI’s
+-Work with VP of Marketing to manage design deliverables
+-Stay on top of all trends and maintain best practices
 
+`01/2020-06/2021`
+Graphic Designer/ Social media manager at OutlastLife.com
+- Work with other team members to produce content
+- Help make design choices(i.e, fonts and colors) for all content.
+- Design web banners, logos, package labels, and other communication materials.
+- Create these materials by hand or by using technology, including competitor activities
+in the market.
+- Generate and perfect company pages within a variety of social media platforms to increase the visibility of company’s social content.
+- Build and execute social media strategy through competitive research٫ platform determination٫ benchmarking٫ messaging and audience identification.
+- Executing and maintaining daily/weekly/monthly posts on Instagram, Facebook, Twitter, or other agreed platforms.
+- Other duties as assigned.
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`01/2019-present`
+Graphic Designer at Amistar, Jax
+-Define creative strategies for programs and communications
+-Working with others in the creative department to develop conceptual abilities
+-Assist with the development of creative briefings
+-Identify creative approaches to align with client objectives and brand position
+-Manage creative refresh plan for ongoing marketing programs
 
 
 <!-- ### Footer
